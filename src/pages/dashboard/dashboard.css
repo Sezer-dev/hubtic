@@ -1,0 +1,34 @@
+.posts-container {
+  margin-top: 12px;
+  background-color: #fefefe;
+}
+
+.post-container {
+  border: 1px solid #eaeaea;
+  border-radius: 8px;
+  padding: 8px;
+  display: flex;
+  justify-content: center;
+}
+
+.posts input {
+  margin-bottom: 8px;
+  border-radius: 8px;
+}
+
+.posts textarea {
+  resize: none;
+  border-radius: 8px;
+}
+
+.btn-submit {
+  margin-bottom: 24px;
+}
+
+.left-sidebar,
+.right-sidebar {
+  border: 1px solid #eaeaea;
+  border-radius: 8px;
+  background-color: #fff;
+  height: 100vh;
+}
